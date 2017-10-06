@@ -1,4 +1,4 @@
 # Constraint-Layout
 Basic of Constraint Layout with Constraint Group
 
-<img src="http://via.placeholder.com/350x150" alt="Reference screenshot"/>
+<img src="https://drive.google.com/file/d/0By0lQMjoLLBKTDdhNms0NVBiUEU/view?usp=sharing" alt="Reference screenshot"/>
